@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+
+}
+.forms{
+    width: 400px;
+    height: 50%;
+    background-color: #5462cd;
+    border-radius: 10px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-left: 35%;
+}
+.container{
+    display: flex;
+}
